@@ -1,7 +1,7 @@
 {
-  "name": "@daoswap/info",
+  "name": "@daoswap-rinkeby/info",
   "private": true,
-  "homepage": "https://info.daoswap.global",
+  "homepage": "https://rinkeby-info.daoswap.global",
   "devDependencies": {
     "@popperjs/core": "^2.4.2",
     "@reach/portal": "^0.10.3",
